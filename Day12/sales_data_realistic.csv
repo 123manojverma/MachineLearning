@@ -1,0 +1,201 @@
+Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total Sales,Region
+10001,2024-03-13,Home Appliances,Air Purifier,5,303.75,1518.75,South America
+10002,2024-02-07,Beauty Products,Nivea Lotion,2,482.95,965.9,Europe
+10003,2024-03-06,Home Appliances,Microwave Oven,2,69.72,139.44,Europe
+10004,2024-03-17,Home Appliances,Dyson V11 Vacuum,6,143.17,859.02,South America
+10005,2024-02-09,Sports,Football,3,250.69,752.07,Europe
+10006,2024-01-04,Sports,Cricket Bat,6,327.2,1963.2,South America
+10007,2024-04-02,Beauty Products,Chanel No.5,1,39.11,39.11,Europe
+10008,2024-04-29,Books,Rich Dad Poor Dad,7,485.67,3399.69,South America
+10009,2024-01-15,Beauty Products,Chanel No.5,7,347.54,2432.78,North America
+10010,2024-04-20,Electronics,iPhone 14 Pro,8,300.45,2403.6,Asia
+10011,2024-01-15,Beauty Products,Nivea Lotion,3,104.87,314.61,Asia
+10012,2024-04-07,Beauty Products,Chanel No.5,3,172.52,517.56,Europe
+10013,2024-01-31,Home Appliances,Air Purifier,10,270.82,2708.2,South America
+10014,2024-02-12,Clothing,Puma T‑Shirt,2,59.81,119.62,North America
+10015,2024-02-22,Sports,Football,8,60.27,482.16,South America
+10016,2024-02-17,Home Appliances,Air Purifier,8,325.65,2605.2,Asia
+10017,2024-01-09,Home Appliances,Dyson V11 Vacuum,7,146.45,1025.15,South America
+10018,2024-04-28,Sports,Cricket Bat,6,260.82,1564.92,Asia
+10019,2024-04-11,Clothing,Adidas Jacket,4,211.59,846.36,South America
+10020,2024-04-21,Beauty Products,Nivea Lotion,4,223.81,895.24,North America
+10021,2024-02-20,Beauty Products,Nivea Lotion,4,381.71,1526.84,Asia
+10022,2024-04-17,Home Appliances,Dyson V11 Vacuum,6,285.94,1715.64,South America
+10023,2024-03-10,Books,Harry Potter,9,16.93,152.37,Asia
+10024,2024-01-11,Sports,Football,3,159.26,477.78,South America
+10025,2024-01-23,Home Appliances,Microwave Oven,3,73.49,220.47,Asia
+10026,2024-02-11,Sports,Football,6,269.03,1614.18,Europe
+10027,2024-04-30,Clothing,Levi's Jeans,9,136.54,1228.86,North America
+10028,2024-01-26,Books,Rich Dad Poor Dad,5,260.25,1301.25,Asia
+10029,2024-01-11,Home Appliances,Air Purifier,3,245.16,735.48,South America
+10030,2024-04-27,Sports,Football,3,280.79,842.37,South America
+10031,2024-03-22,Home Appliances,Microwave Oven,10,37.83,378.3,South America
+10032,2024-03-17,Home Appliances,Dyson V11 Vacuum,9,196.48,1768.32,Europe
+10033,2024-03-22,Beauty Products,Nivea Lotion,4,187.59,750.36,North America
+10034,2024-04-09,Books,Harry Potter,4,445.16,1780.64,North America
+10035,2024-01-03,Home Appliances,Air Purifier,1,444.43,444.43,North America
+10036,2024-03-06,Clothing,Levi's Jeans,5,275.49,1377.45,South America
+10037,2024-01-03,Books,Rich Dad Poor Dad,9,218.63,1967.67,Europe
+10038,2024-03-10,Books,The Da Vinci Code,10,58.83,588.3,South America
+10039,2024-02-15,Electronics,Dell Laptop,3,120.27,360.81,Asia
+10040,2024-01-01,Sports,Football,9,176.04,1584.36,Asia
+10041,2024-01-31,Books,Harry Potter,4,235.7,942.8,Asia
+10042,2024-04-22,Electronics,MacBook Pro,4,305.08,1220.32,South America
+10043,2024-03-26,Books,Harry Potter,8,54.2,433.6,Asia
+10044,2024-04-17,Books,Atomic Habits,3,464.93,1394.79,South America
+10045,2024-01-29,Sports,Football,6,465.09,2790.54,North America
+10046,2024-01-27,Electronics,iPhone 14 Pro,8,53.93,431.44,Asia
+10047,2024-03-30,Beauty Products,Loreal Cream,8,483.3,3866.4,South America
+10048,2024-04-24,Clothing,Puma T‑Shirt,1,17.2,17.2,Europe
+10049,2024-04-03,Books,Rich Dad Poor Dad,8,109.2,873.6,Europe
+10050,2024-04-14,Sports,Football,8,135.46,1083.68,Asia
+10051,2024-01-04,Electronics,Samsung TV,9,190.28,1712.52,North America
+10052,2024-01-21,Electronics,Samsung TV,1,418.72,418.72,South America
+10053,2024-03-16,Home Appliances,Dyson V11 Vacuum,3,61.62,184.86,South America
+10054,2024-02-01,Books,The Da Vinci Code,8,174.73,1397.84,Asia
+10055,2024-04-03,Beauty Products,Chanel No.5,5,381.68,1908.4,South America
+10056,2024-02-12,Books,The Da Vinci Code,8,90.26,722.08,North America
+10057,2024-03-24,Home Appliances,Refrigerator,7,27.96,195.72,Asia
+10058,2024-01-13,Home Appliances,Dyson V11 Vacuum,1,483.66,483.66,North America
+10059,2024-03-21,Sports,Yoga Mat,10,387.51,3875.1,North America
+10060,2024-02-01,Beauty Products,Loreal Cream,4,331.89,1327.56,Asia
+10061,2024-03-23,Clothing,Puma T‑Shirt,1,189.37,189.37,North America
+10062,2024-02-12,Sports,Yoga Mat,1,334.81,334.81,South America
+10063,2024-04-17,Clothing,Levi's Jeans,5,412.34,2061.7,South America
+10064,2024-04-16,Electronics,Bluetooth Speaker,9,420.53,3784.77,North America
+10065,2024-01-17,Electronics,Bluetooth Speaker,10,125.95,1259.5,Europe
+10066,2024-01-04,Home Appliances,Microwave Oven,4,215.34,861.36,Europe
+10067,2024-04-21,Books,The Da Vinci Code,6,287.78,1726.68,South America
+10068,2024-04-11,Clothing,Adidas Jacket,10,256.16,2561.6,Europe
+10069,2024-04-06,Beauty Products,Chanel No.5,5,122.72,613.6,North America
+10070,2024-03-29,Beauty Products,Chanel No.5,1,244.1,244.1,North America
+10071,2024-04-19,Home Appliances,Refrigerator,1,235.78,235.78,Asia
+10072,2024-04-02,Electronics,iPhone 14 Pro,8,311.67,2493.36,Europe
+10073,2024-03-29,Books,The Da Vinci Code,6,262.24,1573.44,Asia
+10074,2024-04-13,Clothing,Levi's Jeans,3,151.64,454.92,Asia
+10075,2024-01-24,Clothing,Levi's Jeans,6,479.98,2879.88,South America
+10076,2024-01-23,Home Appliances,Microwave Oven,5,400.27,2001.35,Europe
+10077,2024-03-01,Books,Harry Potter,8,109.58,876.64,North America
+10078,2024-04-06,Electronics,MacBook Pro,7,299.06,2093.42,Europe
+10079,2024-02-16,Books,Rich Dad Poor Dad,3,481.85,1445.55,North America
+10080,2024-01-26,Home Appliances,Air Purifier,6,470.47,2822.82,North America
+10081,2024-04-20,Beauty Products,Nivea Lotion,8,64.82,518.56,Asia
+10082,2024-04-25,Clothing,Levi's Jeans,9,28.92,260.28,Europe
+10083,2024-01-30,Sports,Cricket Bat,8,51.52,412.16,Asia
+10084,2024-02-26,Beauty Products,Nivea Lotion,3,180.22,540.66,North America
+10085,2024-03-22,Home Appliances,Refrigerator,5,272.6,1363.0,Asia
+10086,2024-03-22,Books,Atomic Habits,6,203.47,1220.82,Asia
+10087,2024-03-19,Beauty Products,Loreal Cream,2,461.88,923.76,Asia
+10088,2024-03-27,Clothing,Nike Air Force 1,7,151.74,1062.18,South America
+10089,2024-01-29,Sports,Yoga Mat,1,157.73,157.73,North America
+10090,2024-03-16,Beauty Products,Chanel No.5,5,148.91,744.55,Europe
+10091,2024-03-14,Home Appliances,Microwave Oven,3,410.27,1230.81,South America
+10092,2024-04-11,Clothing,Puma T‑Shirt,7,330.29,2312.03,Asia
+10093,2024-01-12,Home Appliances,Dyson V11 Vacuum,6,291.48,1748.88,North America
+10094,2024-04-27,Clothing,Adidas Jacket,7,99.3,695.1,Europe
+10095,2024-04-28,Electronics,Bluetooth Speaker,5,17.26,86.3,North America
+10096,2024-02-20,Home Appliances,Microwave Oven,1,82.91,82.91,North America
+10097,2024-04-14,Beauty Products,Loreal Cream,7,17.58,123.06,Asia
+10098,2024-01-30,Sports,Football,2,123.68,247.36,South America
+10099,2024-02-18,Sports,Yoga Mat,7,32.14,224.98,Europe
+10100,2024-02-12,Books,Atomic Habits,2,318.46,636.92,Asia
+10101,2024-01-07,Electronics,Samsung TV,2,378.85,757.7,North America
+10102,2024-02-26,Sports,Cricket Bat,6,35.23,211.38,Asia
+10103,2024-04-24,Sports,Cricket Bat,4,454.74,1818.96,North America
+10104,2024-04-12,Books,Atomic Habits,5,308.01,1540.05,Asia
+10105,2024-04-04,Books,Rich Dad Poor Dad,1,266.92,266.92,Europe
+10106,2024-04-10,Beauty Products,Chanel No.5,7,199.58,1397.06,North America
+10107,2024-03-31,Clothing,Puma T‑Shirt,1,486.77,486.77,Europe
+10108,2024-01-28,Beauty Products,Nivea Lotion,6,408.61,2451.66,Europe
+10109,2024-01-22,Sports,Cricket Bat,1,205.67,205.67,South America
+10110,2024-02-04,Books,Rich Dad Poor Dad,4,466.37,1865.48,Asia
+10111,2024-03-22,Home Appliances,Refrigerator,2,237.06,474.12,South America
+10112,2024-02-06,Home Appliances,Air Purifier,6,491.79,2950.74,South America
+10113,2024-01-24,Clothing,Puma T‑Shirt,10,372.98,3729.8,Asia
+10114,2024-02-26,Sports,Cricket Bat,4,487.1,1948.4,Europe
+10115,2024-02-21,Sports,Cricket Bat,3,474.28,1422.84,Asia
+10116,2024-04-29,Electronics,Dell Laptop,5,74.75,373.75,Europe
+10117,2024-01-23,Electronics,Bluetooth Speaker,8,180.74,1445.92,Asia
+10118,2024-03-13,Home Appliances,Air Purifier,3,190.72,572.16,Asia
+10119,2024-02-10,Sports,Cricket Bat,10,51.31,513.1,South America
+10120,2024-04-25,Sports,Cricket Bat,8,71.93,575.44,Asia
+10121,2024-02-22,Electronics,Samsung TV,6,188.34,1130.04,Europe
+10122,2024-03-09,Clothing,Levi's Jeans,10,394.46,3944.6,North America
+10123,2024-01-30,Beauty Products,Chanel No.5,8,354.66,2837.28,South America
+10124,2024-02-26,Beauty Products,Nivea Lotion,9,385.45,3469.05,Asia
+10125,2024-01-22,Clothing,Adidas Jacket,10,200.5,2005.0,South America
+10126,2024-03-27,Clothing,Nike Air Force 1,9,442.02,3978.18,South America
+10127,2024-02-24,Books,Atomic Habits,6,427.46,2564.76,Asia
+10128,2024-01-16,Beauty Products,Chanel No.5,10,372.09,3720.9,Europe
+10129,2024-01-11,Sports,Football,7,368.87,2582.09,Asia
+10130,2024-01-17,Books,Atomic Habits,10,154.36,1543.6,Europe
+10131,2024-01-17,Beauty Products,Chanel No.5,3,323.86,971.58,North America
+10132,2024-02-22,Electronics,Dell Laptop,4,476.32,1905.28,North America
+10133,2024-03-14,Home Appliances,Refrigerator,6,392.21,2353.26,South America
+10134,2024-03-18,Clothing,Nike Air Force 1,3,272.64,817.92,North America
+10135,2024-01-13,Clothing,Puma T‑Shirt,4,156.44,625.76,Asia
+10136,2024-02-08,Clothing,Adidas Jacket,4,492.88,1971.52,North America
+10137,2024-01-29,Beauty Products,Chanel No.5,7,453.77,3176.39,North America
+10138,2024-04-25,Beauty Products,Chanel No.5,4,155.18,620.72,South America
+10139,2024-01-11,Books,Rich Dad Poor Dad,3,396.23,1188.69,South America
+10140,2024-04-29,Home Appliances,Dyson V11 Vacuum,2,135.68,271.36,South America
+10141,2024-03-12,Beauty Products,Nivea Lotion,7,106.77,747.39,Europe
+10142,2024-01-27,Electronics,Samsung TV,8,232.13,1857.04,South America
+10143,2024-02-16,Beauty Products,Chanel No.5,6,167.36,1004.16,North America
+10144,2024-02-28,Beauty Products,Loreal Cream,10,220.5,2205.0,South America
+10145,2024-03-19,Sports,Football,9,489.91,4409.19,Europe
+10146,2024-03-25,Beauty Products,Nivea Lotion,4,168.98,675.92,Asia
+10147,2024-02-02,Electronics,Samsung TV,7,267.06,1869.42,North America
+10148,2024-04-30,Books,Harry Potter,4,193.16,772.64,North America
+10149,2024-04-22,Electronics,MacBook Pro,9,386.16,3475.44,Europe
+10150,2024-01-07,Books,The Da Vinci Code,8,70.57,564.56,Europe
+10151,2024-02-06,Electronics,iPhone 14 Pro,2,286.09,572.18,South America
+10152,2024-02-12,Beauty Products,Loreal Cream,3,453.18,1359.54,South America
+10153,2024-02-02,Home Appliances,Air Purifier,1,306.25,306.25,North America
+10154,2024-02-22,Electronics,Dell Laptop,9,84.63,761.67,North America
+10155,2024-01-31,Electronics,iPhone 14 Pro,1,419.22,419.22,Europe
+10156,2024-03-06,Electronics,MacBook Pro,10,378.24,3782.4,North America
+10157,2024-03-30,Beauty Products,Chanel No.5,9,430.76,3876.84,South America
+10158,2024-02-09,Clothing,Levi's Jeans,10,194.54,1945.4,North America
+10159,2024-01-12,Electronics,iPhone 14 Pro,2,287.6,575.2,South America
+10160,2024-01-21,Electronics,Bluetooth Speaker,4,114.74,458.96,North America
+10161,2024-02-06,Sports,Yoga Mat,7,280.96,1966.72,North America
+10162,2024-02-27,Home Appliances,Refrigerator,9,471.26,4241.34,Europe
+10163,2024-01-09,Books,The Da Vinci Code,7,34.7,242.9,South America
+10164,2024-03-05,Clothing,Nike Air Force 1,9,233.53,2101.77,Asia
+10165,2024-02-12,Sports,Yoga Mat,7,57.12,399.84,Asia
+10166,2024-02-08,Books,Atomic Habits,10,397.44,3974.4,Europe
+10167,2024-02-17,Electronics,MacBook Pro,3,100.04,300.12,South America
+10168,2024-04-15,Clothing,Puma T‑Shirt,4,56.09,224.36,South America
+10169,2024-03-05,Books,Harry Potter,4,200.79,803.16,North America
+10170,2024-04-23,Sports,Cricket Bat,7,253.75,1776.25,South America
+10171,2024-02-19,Clothing,Adidas Jacket,9,58.78,529.02,South America
+10172,2024-01-26,Beauty Products,Loreal Cream,3,446.39,1339.17,Asia
+10173,2024-04-03,Electronics,iPhone 14 Pro,4,434.56,1738.24,Asia
+10174,2024-01-03,Sports,Yoga Mat,10,422.11,4221.1,North America
+10175,2024-04-08,Sports,Cricket Bat,6,176.77,1060.62,North America
+10176,2024-01-18,Electronics,Bluetooth Speaker,8,59.68,477.44,North America
+10177,2024-04-21,Home Appliances,Microwave Oven,6,195.07,1170.42,South America
+10178,2024-02-24,Clothing,Puma T‑Shirt,9,418.63,3767.67,North America
+10179,2024-01-06,Home Appliances,Dyson V11 Vacuum,5,497.96,2489.8,Europe
+10180,2024-04-02,Clothing,Puma T‑Shirt,6,165.61,993.66,North America
+10181,2024-03-12,Sports,Cricket Bat,4,263.26,1053.04,South America
+10182,2024-03-01,Home Appliances,Air Purifier,7,462.73,3239.11,South America
+10183,2024-03-10,Home Appliances,Refrigerator,8,405.41,3243.28,Asia
+10184,2024-03-19,Electronics,MacBook Pro,9,298.31,2684.79,Asia
+10185,2024-04-22,Home Appliances,Air Purifier,1,488.55,488.55,South America
+10186,2024-01-13,Beauty Products,Nivea Lotion,4,110.49,441.96,Europe
+10187,2024-02-23,Clothing,Adidas Jacket,7,225.58,1579.06,Asia
+10188,2024-03-15,Sports,Football,9,471.63,4244.67,Europe
+10189,2024-03-31,Home Appliances,Air Purifier,6,133.48,800.88,Europe
+10190,2024-04-15,Sports,Football,9,404.75,3642.75,North America
+10191,2024-01-10,Books,The Da Vinci Code,7,326.42,2284.94,Europe
+10192,2024-03-13,Beauty Products,Loreal Cream,2,482.08,964.16,Asia
+10193,2024-04-27,Home Appliances,Air Purifier,9,268.11,2412.99,South America
+10194,2024-04-05,Clothing,Levi's Jeans,1,61.95,61.95,Asia
+10195,2024-04-19,Clothing,Puma T‑Shirt,1,437.58,437.58,South America
+10196,2024-03-08,Sports,Cricket Bat,3,171.23,513.69,Europe
+10197,2024-04-05,Clothing,Nike Air Force 1,10,413.96,4139.6,North America
+10198,2024-03-26,Books,Harry Potter,1,220.77,220.77,Asia
+10199,2024-01-12,Home Appliances,Air Purifier,7,442.42,3096.94,Asia
+10200,2024-04-07,Electronics,Dell Laptop,3,177.26,531.78,South America
